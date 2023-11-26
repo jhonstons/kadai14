@@ -1,0 +1,28 @@
+.kadai14 {
+ text-align: center;
+}
+.basic {
+  font-size: 20px;
+}
+.decoration {
+  font-size: 40px;
+  border-bottom: solid 3px rgb(115, 115, 114);
+  font-family: "Josefin Sans", sans-serif;
+  letter-spacing: 48px;
+  text-shadow: 3px 3px 5px black;
+}
+.change1 {
+  color: skyblue;
+}
+.change2 {
+  color: pink;
+}
+#second-heading {
+  color: pink;
+}
+#third-heading {
+  color: skyblue
+}
+#parent {
+  font-weight: bold;
+}
